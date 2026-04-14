@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Longinus Index — AI Threat Assessment</title>
+  <meta name="description" content="Tracking threats to AI progress — hacks, legislation, and cultural resistance. Live intelligence feed.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔱</text></svg>">
+</head>
+<body>
+
+<canvas id="starfield"></canvas>
+
+<div class="container">
+
+  <header class="header">
+    <div class="sigil">🔱</div>
+    <h1 class="title">The Longinus Index</h1>
+    <p class="subtitle">AI Threat Assessment Protocol <span class="blink">▮</span></p>
+  </header>
+
+  <nav class="nav nav-sections">
+    <a href="#markets">Markets</a>
+    <a href="#hardware">Hardware</a>
+    <a href="#down-detector">Status</a>
+    <a href="#live-wire">Live Wire</a>
+  </nav>
+
+  <div class="threat-banner">
+    <span class="label">Current Global Threat Level</span>
+    <span class="level" id="dynamic-level">SCANNING...</span>
+  </div>
+
+  <!-- AI Stock Ticker -->
+  <div class="widget-section" id="markets">
+    <button class="widget-header market-header" data-widget-toggle="stock-ticker">
+      <span>📈 AI Market Intelligence</span>
+      <span class="widget-chevron">▾</span>
+    </button>
+    <div id="stock-ticker" class="widget-body"></div>
+  </div>
+
+  <!-- Hardware Price Tracker -->
+  <div class="widget-section" id="hardware">
+    <button class="widget-header hardware-header" data-widget-toggle="hardware-prices">
+      <span>🖥 Hardware Price Tracker</span>
+      <span class="widget-chevron">▾</span>
+    </button>
+    <div id="hardware-prices" class="widget-body"></div>
+  </div>
+
+  <!-- Down Detector: AI Service Status -->
+  <div class="widget-section" id="down-detector">
+    <button class="widget-header dd-header" data-widget-toggle="dd-grid">
+      <span>🔻 AI Service Status — Down Detector</span>
+      <span class="dd-summary" id="dd-summary">scanning...</span>
+      <span class="widget-chevron">▾</span>
+    </button>
+    <div id="dd-grid" class="widget-body"></div>
+  </div>
+
+  <!-- Live Wire: Threat Feed -->
+  <div class="widget-section" id="live-wire">
+    <button class="widget-header wire-header" data-widget-toggle="live-wire-feed">
+      <span><span class="wire-pulse"></span> Live Wire — Threat Sources</span>
+      <span class="wire-status" id="wire-status">connecting...</span>
+      <span class="widget-chevron">▾</span>
+    </button>
+    <div id="live-wire-feed" class="widget-body wire-feed wire-feed-hero"></div>
+  </div>
+
+  <div class="terminal-prompt">
+    <span class="prompt-prefix">NERV://longinus $</span>
+    <span class="typed-text" data-typed=" threat.scan --global --depth=full"> </span><span class="cursor"></span>
+  </div>
+
+  <footer class="footer">
+    <span class="spear">🔱</span>
+    <div class="nerv-logo">The Longinus Index</div>
+    <div class="footer-text">The spear that pierces heaven's veil — tracking what holds us back</div>
+    <div class="last-updated">Last updated: <span id="last-updated"></span></div>
+  </footer>
+
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script src="script.js"></script>
+<script src="feeds.js"></script>
+<script src="market.js"></script>
+<script src="downdetector.js"></script>
+<script>
+  const luEl = document.getElementById('last-updated');
+  if (luEl) luEl.textContent = LONGINUS_DATA.meta.lastUpdated;
+</script>
+</body>
+</html>

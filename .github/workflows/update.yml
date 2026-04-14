@@ -1,0 +1,43 @@
+name: Update Longinus Index
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install xml2js
+        run: npm install xml2js
+
+      - name: Fetch feeds and update data
+        run: node scripts/fetch-feeds.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data.js && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "Longinus Bot"
+          git config user.email "longinus-bot@users.noreply.github.com"
+          git add data.js
+          git commit -m "auto: update index from RSS feeds — $(date -u +%Y-%m-%d)"
+          git push
