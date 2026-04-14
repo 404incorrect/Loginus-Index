@@ -1,8 +1,7 @@
 # 🔱 The Longinus Index
 
-**The spear that pierces heaven's veil.**
 
-An AI threat index tracking what aims to slow down artificial intelligence — hacks, legislation, and cultural resistance. Named after the Spear of Longinus from *Neon Genesis Evangelion*.
+An AI threat index tracking what aims to slow down artificial intelligence, hacks, legislation, and cultural resistance. 
 
 ## Auto-Updating
 
@@ -18,10 +17,10 @@ Enable **Actions** in the repo settings if you want workflows to run.
 
 ## Features
 
-- **Live Wire** — Real-time RSS headlines with severity labels
-- **Markets & hardware** — AI equities and GPU/RAM reference prices (client-side)
-- **Down Detector** — Major AI/platform status pages
-- **Composite threat level** — News + market moves + service status
+- **Live Wire** Real-time RSS headlines with severity labels
+- **Markets & hardware** AI equities and GPU/RAM reference prices (client-side)
+- **Down Detector** Major AI/platform status pages
+- **Composite threat level** News + market moves + service status
 - **Data-driven archive** — Curated entries in `data.js`
 
 ## Adding Entries Manually
@@ -45,45 +44,6 @@ Edit `data.js` and add an object to the `entries` array:
 }
 ```
 
-## Deploy on GitHub Pages
-
-### 1. Create a repository
-
-On GitHub: **New repository** → name it (e.g. `longinus-index` or `username.github.io` for a user site).
-
-### 2. Push this project
-
-In a terminal, from the project folder (first time only):
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Longinus Index"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
-
-Use your real URL from the repo’s **Code** tab (HTTPS or SSH).
-
-### 3. Turn on GitHub Pages
-
-1. Repo → **Settings** → **Pages** (under *Code and automation*).
-2. **Build and deployment** → **Source**: **Deploy from a branch**.
-3. **Branch**: `main`, folder **`/ (root)`** → **Save**.
-
-After a minute or two, the site is available at:
-
-- **Project site:** `https://YOUR_USERNAME.github.io/YOUR_REPO/`
-- **User/org site** (only if the repo is named `YOUR_USERNAME.github.io`): `https://YOUR_USERNAME.github.io/`
-
-Relative paths (`style.css`, `app.js`, etc.) work for project sites without extra configuration.
-
-### 4. Optional: custom domain
-
-**Settings → Pages** → add your domain, then add a `CNAME` file in the repo root (GitHub shows the exact hostname). Configure DNS at your registrar as GitHub documents.
-
----
 
 ## File Structure
 
