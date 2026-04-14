@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-11",
+    lastUpdated: "2026-04-14",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -500,6 +500,49 @@ const LONGINUS_DATA = {
         { title: "Anthropic", url: "https://www.anthropic.com/" },
       ],
       xAccounts: ["@AnthropicAI"],
+    },
+
+
+    {
+      id: "2026-04-13--weekly-recap-fiber-optic-spying-windows",
+      title: "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+      date: "2026-04-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-vulnerability","the-hacker-news"],
+      body: "Monday is back, and the weekend’s backlog of chaos is officially hitting the fan. We are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It is one of those mornings ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-13-vercel-ceo-guillermo-rauch-signals-ipo-r",
+      title: "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      date: "2026-04-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-13-cram-less-to-fit-more-training-data-prun",
+      title: "Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts",
+      date: "2026-04-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "This paper was accepted at the Workshop on Navigating and Addressing Data Problems for Foundation Models at ICLR 2026. Large language models (LLMs) can struggle to memorize factual knowledge in their parameters, often leading to hallucinations and poor performance on knowledge-intensive tasks. In...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/cram-less" }
+      ],
+      xAccounts: [],
     },
 
   ],
