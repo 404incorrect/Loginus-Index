@@ -575,6 +575,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-15-india-s-vibe-coding-startup-emergent-ent",
+      title: "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      date: "2026-04-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
