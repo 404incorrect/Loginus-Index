@@ -590,6 +590,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-15-hightouch-reaches-100m-arr-fueled-by-mar",
+      title: "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      date: "2026-04-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
