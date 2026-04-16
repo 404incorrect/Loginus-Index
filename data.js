@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-15",
+    lastUpdated: "2026-04-16",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -601,6 +601,35 @@ const LONGINUS_DATA = {
       body: "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-16--webinar-find-and-eliminate-orphaned-non",
+      title: "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
+      date: "2026-04-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI age...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-16-treating-enterprise-ai-as-an-operating-l",
+      title: "Treating enterprise AI as an operating layer",
+      date: "2026-04-16",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","mit-technology-review"],
+      body: "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks — GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structura...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/" }
       ],
       xAccounts: [],
     },
