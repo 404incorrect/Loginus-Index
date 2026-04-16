@@ -664,6 +664,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-16-how-automated-reasoning-checks-in-amazon",
+      title: "How Automated Reasoning checks in Amazon Bedrock transform generative AI compliance",
+      date: "2026-04-16",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-compliance","aws-ml"],
+      body: "In this post, you'll learn why probabilistic AI validation falls short in regulated industries and how Automated Reasoning checks use formal verification to deliver mathematically proven results. You'll also see how customers across six industries use this technology to produce formally verified,...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
