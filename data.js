@@ -679,6 +679,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-16-mixatlas-uncertainty-aware-data-mixture",
+      title: "MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining",
+      date: "2026-04-16",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","apple-ml"],
+      body: "This paper was accepted at the Workshop on Navigating and Addressing Data Problems for Foundation Models (NADPFM) at ICLR 2026. Principled domain reweighting can substantially improve sample efficiency and downstream generalization; however, data-mixture optimization for multimodal pretraining re...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/mixatlas" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
