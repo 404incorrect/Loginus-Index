@@ -634,6 +634,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-16-new-athr-vishing-platform-uses-ai-voice",
+      title: "New ATHR vishing platform uses AI voice agents for automated attacks",
+      date: "2026-04-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
