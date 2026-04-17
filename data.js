@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-16",
+    lastUpdated: "2026-04-17",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -690,6 +690,21 @@ const LONGINUS_DATA = {
       body: "This paper was accepted at the Workshop on Navigating and Addressing Data Problems for Foundation Models (NADPFM) at ICLR 2026. Principled domain reweighting can substantially improve sample efficiency and downstream generalization; however, data-mixture optimization for multimodal pretraining re...",
       sources: [
         { title: "Apple ML", url: "https://machinelearning.apple.com/research/mixatlas" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-16-factory-hits-1-5b-valuation-to-build-ai",
+      title: "Factory hits $1.5B valuation to build AI coding for enterprises",
+      date: "2026-04-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "The three-year-old startup raised $150 million led by Khosla Ventures.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/" }
       ],
       xAccounts: [],
     },
