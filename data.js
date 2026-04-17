@@ -709,6 +709,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-17-optimize-video-semantic-search-intent-wi",
+      title: "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
+      date: "2026-04-17",
+      category: "win",
+      severity: "win",
+      tags: ["inference-cost","aws-ml"],
+      body: "In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a large teacher model (Amazon Nova Premier) into a much smaller student model (Amazon Nova Micro). This approach cuts inference cost by over 95% and re...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
