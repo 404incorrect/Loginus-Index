@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-17",
+    lastUpdated: "2026-04-18",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -720,6 +720,21 @@ const LONGINUS_DATA = {
       body: "In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a large teacher model (Amazon Nova Premier) into a much smaller student model (Amazon Nova Micro). This approach cuts inference cost by over 95% and re...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-18--webinar-eliminate-ghost-identities-befo",
+      title: "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+      date: "2026-04-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI age...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html" }
       ],
       xAccounts: [],
     },
