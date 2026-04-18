@@ -739,6 +739,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-18-the-app-store-is-booming-again-and-ai-ma",
+      title: "The App Store is booming again, and AI may be why",
+      date: "2026-04-18",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
