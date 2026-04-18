@@ -754,6 +754,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-18-ai-chip-startup-cerebras-files-for-ipo",
+      title: "AI chip startup Cerebras files for IPO",
+      date: "2026-04-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
