@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-18",
+    lastUpdated: "2026-04-19",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -765,6 +765,21 @@ const LONGINUS_DATA = {
       body: "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-19-the-12-month-window",
+      title: "The 12-month window",
+      date: "2026-04-19",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","techcrunch"],
+      body: "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/19/the-12-month-window/" }
       ],
       xAccounts: [],
     },
