@@ -814,6 +814,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-20-why-most-ai-deployments-stall-after-the",
+      title: "Why Most AI Deployments Stall After the Demo",
+      date: "2026-04-20",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team. But most AI initiatives don't fail because of bad technology. They stall...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-20-autonomous-ai-at-scale-adobe-agents-unlo",
+      title: "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+      date: "2026-04-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "AI agents are transforming how work gets done across all industries, accelerating everything from content creation to decision-making. NVIDIA’s expanded strategic collaborations with Adobe and WPP are bringing agentic AI to the center of enterprise marketing operations across creative production ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
