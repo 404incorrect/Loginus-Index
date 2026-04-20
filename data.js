@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-19",
+    lastUpdated: "2026-04-20",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -780,6 +780,21 @@ const LONGINUS_DATA = {
       body: "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/19/the-12-month-window/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-20-vercel-breach-tied-to-context-ai-hack-ex",
+      title: "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+      date: "2026-04-20",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","the-hacker-news"],
+      body: "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html" }
       ],
       xAccounts: [],
     },
