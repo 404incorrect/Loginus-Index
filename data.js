@@ -843,6 +843,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-20-omnichannel-ordering-with-amazon-bedrock",
+      title: "Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
+      date: "2026-04-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","foundation-model","aws-ml"],
+      body: "In this post, we'll show you how to build a complete omnichannel ordering system using Amazon Bedrock AgentCore, an agentic platform, to build, deploy, and operate highly effective AI agents securely at scale using any framework and foundation model and Amazon Nova 2 Sonic.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
