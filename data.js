@@ -873,6 +873,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-20-accelerate-generative-ai-inference-on-am",
+      title: "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
+      date: "2026-04-20",
+      category: "tool",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
