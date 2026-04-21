@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-20",
+    lastUpdated: "2026-04-21",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -884,6 +884,21 @@ const LONGINUS_DATA = {
       body: "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-21-how-to-ground-a-korean-ai-agent-in-real",
+      title: "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      date: "2026-04-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","hugging-face"],
+      body: "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas" }
       ],
       xAccounts: [],
     },
