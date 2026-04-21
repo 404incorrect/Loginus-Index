@@ -918,6 +918,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-21-ai-research-lab-neocognition-lands-40m-s",
+      title: "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      date: "2026-04-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-21-building-agent-first-governance-and-secu",
+      title: "Building agent-first governance and security",
+      date: "2026-04-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-human identities (N...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
