@@ -947,6 +947,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-21-weaponized-deepfakes",
+      title: "Weaponized deepfakes",
+      date: "2026-04-21",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","mit-technology-review"],
+      body: "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways. These dangers are now here. Improvements in deepfake technology, and the widespread availabi...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-21-agent-orchestration",
+      title: "Agent orchestration",
+      date: "2026-04-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-21-resistance",
+      title: "Resistance",
+      date: "2026-04-21",
+      category: "culture",
+      severity: "moderate",
+      tags: ["anti-ai","mit-technology-review"],
+      body: "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact on teen mental health, the military’s use of AI, and copyright infringement—amo...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
