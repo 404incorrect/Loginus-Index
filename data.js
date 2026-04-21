@@ -903,6 +903,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-21-youtube-expands-its-ai-likeness-detectio",
+      title: "YouTube expands its AI likeness detection technology to celebrities",
+      date: "2026-04-21",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","techcrunch"],
+      body: "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
