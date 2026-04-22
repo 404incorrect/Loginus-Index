@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-04-22",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -986,6 +986,21 @@ const LONGINUS_DATA = {
       body: "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact on teen mental health, the military’s use of AI, and copyright infringement—amo...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-22-toxic-combinations-when-cross-app-permis",
+      title: "Toxic Combinations: When Cross-App Permissions Stack into Risk",
+      date: "2026-04-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worrying part sat inside the private messages. Some of those con...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html" }
       ],
       xAccounts: [],
     },
