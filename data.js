@@ -1035,6 +1035,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-22-google-cloud-launches-two-new-ai-chips-t",
+      title: "Google Cloud launches two new AI chips to compete with Nvidia",
+      date: "2026-04-22",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
