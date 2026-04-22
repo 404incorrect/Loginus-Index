@@ -1020,6 +1020,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-22-company-wise-memory-in-amazon-bedrock-wi",
+      title: "Company-wise memory in Amazon Bedrock with Amazon Neptune and Mem0",
+      date: "2026-04-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Company-wise memory in Amazon Bedrock, powered by Amazon Neptune and Mem0, provides AI agents with persistent, company-specific context—enabling them to learn, adapt, and respond intelligently across multiple interactions. TrendMicro, one of the largest antivirus software companies in the world, ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
