@@ -1005,6 +1005,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-22-openai-teams-up-with-infosys-to-bring-ai",
+      title: "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      date: "2026-04-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
