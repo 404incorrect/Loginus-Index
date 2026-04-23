@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-22",
+    lastUpdated: "2026-04-23",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1046,6 +1046,21 @@ const LONGINUS_DATA = {
       body: "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-23-another-customer-of-troubled-startup-del",
+      title: "Another customer of troubled startup Delve suffered a big security incident",
+      date: "2026-04-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/" }
       ],
       xAccounts: [],
     },
