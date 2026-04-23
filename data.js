@@ -1065,6 +1065,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-23-applying-multimodal-biological-foundatio",
+      title: "Applying multimodal biological foundation models across therapeutics and patient care",
+      date: "2026-04-23",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "In this post, we'll explore how multimodal BioFMs work, showcase real-world applications in drug discovery and clinical development, and contextualize how AWS enables organizations to build and deploy multimodal BioFMs.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
