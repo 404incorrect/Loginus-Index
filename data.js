@@ -1080,6 +1080,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-23-openai-releases-gpt-5-5-bringing-company",
+      title: "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+      date: "2026-04-23",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-23-openai-s-new-gpt-5-5-powers-codex-on-nvi",
+      title: "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+      date: "2026-04-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation. Codex, OpenAI s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
