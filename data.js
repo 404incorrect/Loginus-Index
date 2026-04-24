@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-04-24",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1105,6 +1105,35 @@ const LONGINUS_DATA = {
       body: "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation. Codex, OpenAI s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, ...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-24-bridging-the-ai-agent-authority-gap-cont",
+      title: "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+      date: "2026-04-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The AI Agent Authority Gap - From Ungoverned to Delegation As discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly. The issue is not simply that agents are new actors. It is that agents are delegated actors...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-24-in-another-wild-turn-for-ai-chips-meta-s",
+      title: "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      date: "2026-04-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ai-chip","techcrunch"],
+      body: "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/" }
       ],
       xAccounts: [],
     },
