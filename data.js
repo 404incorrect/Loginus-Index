@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-24",
+    lastUpdated: "2026-04-25",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1164,6 +1164,21 @@ const LONGINUS_DATA = {
       body: "In this post, we show how connecting the Visier Workforce AI platform with Amazon Quick through Model Context Protocol (MCP) gives every knowledge worker a unified agentic workspace to ask questions in. Visier helps ground the workspace in live workforce data and the organizational context that s...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-25-anthropic-created-a-test-marketplace-for",
+      title: "Anthropic created a test marketplace for agent-on-agent commerce",
+      date: "2026-04-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/" }
       ],
       xAccounts: [],
     },
