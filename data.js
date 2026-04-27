@@ -1198,6 +1198,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-27-deepfake-voice-attacks-are-outpacing-def",
+      title: "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
+      date: "2026-04-27",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","bleepingcomputer"],
+      body: "Three seconds of audio is all it takes to clone a voice for fraud. Adaptive Security shows how deepfake calls trick employees into sending real money—and why most defenses don't catch them. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-27-china-vetoes-meta-s-2b-manus-deal-after",
+      title: "China vetoes Meta’s $2B Manus deal after months-long probe",
+      date: "2026-04-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-27-openai-could-be-making-a-phone-with-ai-a",
+      title: "OpenAI could be making a phone with AI agents replacing apps",
+      date: "2026-04-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The phone could go in mass production in 2028, an analyst says.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-27-rebuilding-the-data-stack-for-ai",
+      title: "Rebuilding the data stack for AI",
+      date: "2026-04-27",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","mit-technology-review"],
+      body: "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying A...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-27-join-the-new-ai-agents-vibe-coding-cours",
+      title: "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      date: "2026-04-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","google-ai"],
+      body: "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      sources: [
+        { title: "Google AI", url: "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
