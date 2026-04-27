@@ -1269,6 +1269,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-27-china-blocks-meta-s-2b-manus-deal-after",
+      title: "China blocks Meta’s $2B Manus deal after months-long probe",
+      date: "2026-04-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
