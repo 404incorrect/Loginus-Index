@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-25",
+    lastUpdated: "2026-04-27",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1179,6 +1179,21 @@ const LONGINUS_DATA = {
       body: "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-27-the-download-deepseek-s-latest-ai-breakt",
+      title: "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      date: "2026-04-27",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-breakthrough","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/" }
       ],
       xAccounts: [],
     },
