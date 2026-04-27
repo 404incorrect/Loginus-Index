@@ -1299,6 +1299,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-27-build-strands-agents-with-sagemaker-ai-m",
+      title: "Build Strands Agents with SageMaker AI models and MLflow",
+      date: "2026-04-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","foundation-model","aws-ml"],
+      body: "In this post, we demonstrate how to build AI agents using Strands Agents SDK with models deployed on SageMaker AI endpoints. You will learn how to deploy foundation models from SageMaker JumpStart, integrate them with Strands Agents, and establish production-grade observability using SageMaker Se...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
