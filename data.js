@@ -1344,6 +1344,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-28-nvidia-launches-nemotron-3-nano-omni-mod",
+      title: "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+      date: "2026-04-28",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents t...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-28-connecting-agents-to-decisions",
+      title: "Connecting Agents to Decisions",
+      date: "2026-04-28",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","palantir"],
+      body: "The Palantir OntologyPalantir’s software powers real-time, human-agent decision-making in many of the most critical commercial and government contexts around the world. From disaster response to nuclear energy production, our customers depend on Palantir AIP to safely, securely, and effectively l...",
+      sources: [
+        { title: "Palantir", url: "https://blog.palantir.com/connecting-agents-to-decisions-277dee8ddb40?source=rss----3c87dc14372f---4" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
