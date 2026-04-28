@@ -1329,6 +1329,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-28-red-hat-s-openclaw-maintainer-just-made",
+      title: "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      date: "2026-04-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
