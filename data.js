@@ -1432,6 +1432,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-29-parallel-web-systems-hits-2b-valuation-f",
+      title: "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      date: "2026-04-29",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
