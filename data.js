@@ -1462,6 +1462,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-30-after-dissing-anthropic-for-limiting-myt",
+      title: "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      date: "2026-04-30",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-restrict","techcrunch"],
+      body: "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-04-30-stripe-introduces-link-a-digital-wallet",
+      title: "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      date: "2026-04-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
