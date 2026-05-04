@@ -1564,6 +1564,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-04-openai-s-cozy-partner-cerebras-is-on-tra",
+      title: "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      date: "2026-05-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
