@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-01",
+    lastUpdated: "2026-05-04",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1517,6 +1517,49 @@ const LONGINUS_DATA = {
       body: "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-04-doordash-adds-ai-tools-to-speed-up-merch",
+      title: "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      date: "2026-05-04",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-04-introducing-the-agent-performance-loop-a",
+      title: "Introducing the agent performance loop: AgentCore Optimization now in preview",
+      date: "2026-05-04",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. A...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-performance-loop-agentcore-optimization-now-in-preview/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-04-agent-guided-workflows-to-accelerate-mod",
+      title: "Agent-guided workflows to accelerate model customization in Amazon SageMaker AI",
+      date: "2026-05-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ai-coding","aws-ml"],
+      body: "Amazon SageMaker AI now offers an agentic experience that changes this. Developers describe their use case using natural language, and the AI coding agent streamlines the entire journey, from use case definition and data preparation through technique selection, evaluation, and deployment. In this...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/" }
       ],
       xAccounts: [],
     },
