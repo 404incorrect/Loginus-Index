@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-04",
+    lastUpdated: "2026-05-05",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1575,6 +1575,21 @@ const LONGINUS_DATA = {
       body: "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-04-introducing-the-agent-quality-loop-agent",
+      title: "Introducing the agent quality loop: AgentCore Optimization now in preview",
+      date: "2026-05-04",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. A...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/" }
       ],
       xAccounts: [],
     },
