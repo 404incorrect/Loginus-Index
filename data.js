@@ -1594,6 +1594,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-05-the-back-door-attackers-know-about-and-m",
+      title: "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
+      date: "2026-05-05",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don't see it. Yo...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-05-copilotkit-raises-27m-to-help-devs-deplo",
+      title: "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      date: "2026-05-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-05-secure-ai-agents-with-amazon-bedrock-age",
+      title: "Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS",
+      date: "2026-05-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "AI agents in production require secure access to external services. Amazon Bedrock AgentCore Identity, available as a standalone service, secures how your AI agents access external services whether they run on compute platforms like Amazon ECS, Amazon EKS, AWS Lambda, or on-premises. This post im...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-05-intelligence-driven-message-defense-and",
+      title: "Intelligence-driven message defense and insights using Amazon Bedrock",
+      date: "2026-05-05",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "In this post, you will learn how you can use Amazon Nova Foundation Models in Amazon Bedrock to apply generative AI techniques for both business protection and enhancement. You can identify obvious and disguised attempts at direct contact while gaining valuable insights into customer sentiment an...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
