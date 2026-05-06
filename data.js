@@ -1710,6 +1710,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-06-tinder-owner-match-group-is-slowing-hiri",
+      title: "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      date: "2026-05-06",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-06-cost-effective-deployment-of-vision-lang",
+      title: "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2",
+      date: "2026-05-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","aws-ml"],
+      body: "Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To reduce costs and maintain accuracy, Tomofun turned to EC2 Inf2 instances powered by AWS Inferentia2, the Amazon purpose-built AI chips. In this post, ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
