@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-05",
+    lastUpdated: "2026-05-06",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1691,6 +1691,21 @@ const LONGINUS_DATA = {
       body: "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. A...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-06-your-ai-agents-are-already-inside-the-pe",
+      title: "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+      date: "2026-05-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of gov...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html" }
       ],
       xAccounts: [],
     },
