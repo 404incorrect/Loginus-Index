@@ -1769,6 +1769,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-07-perplexity-s-personal-computer-is-now-av",
+      title: "Perplexity’s Personal Computer is now available to everyone on Mac",
+      date: "2026-05-07",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
