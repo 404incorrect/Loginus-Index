@@ -1754,6 +1754,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-07-china-s-moonshot-ai-raises-2b-at-20b-val",
+      title: "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      date: "2026-05-07",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
