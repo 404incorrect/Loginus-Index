@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-07",
+    lastUpdated: "2026-05-11",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1780,6 +1780,21 @@ const LONGINUS_DATA = {
       body: "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-11-building-blocks-for-foundation-model-tra",
+      title: "Building Blocks for Foundation Model Training and Inference on AWS",
+      date: "2026-05-11",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","hugging-face"],
+      body: "Building Blocks for Foundation Model Training and Inference on AWS",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/amazon/foundation-model-building-blocks" }
       ],
       xAccounts: [],
     },
