@@ -1903,6 +1903,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-13-notion-just-turned-its-workspace-into-a",
+      title: "Notion just turned its workspace into a hub for AI agents",
+      date: "2026-05-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
