@@ -1873,6 +1873,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-13-microsoft-s-mdash-ai-system-finds-16-win",
+      title: "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+      date: "2026-05-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview. MDASH, short for multi-model agentic scanning harn...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
