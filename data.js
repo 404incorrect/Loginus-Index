@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-12",
+    lastUpdated: "2026-05-13",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1825,6 +1825,21 @@ const LONGINUS_DATA = {
       body: "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-13-medicare-s-new-payment-model-is-built-fo",
+      title: "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      date: "2026-05-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/" }
       ],
       xAccounts: [],
     },
