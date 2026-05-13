@@ -1844,6 +1844,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-13-adaption-aims-big-with-autoscientist-an",
+      title: "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      date: "2026-05-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-13-hermes-unlocks-self-improving-ai-agents",
+      title: "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      date: "2026-05-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
