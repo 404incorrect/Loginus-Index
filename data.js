@@ -1888,6 +1888,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-13-securing-ai-agents-how-aws-and-cisco-ai",
+      title: "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
+      date: "2026-05-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
