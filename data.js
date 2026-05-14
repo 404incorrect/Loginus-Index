@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-13",
+    lastUpdated: "2026-05-14",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1914,6 +1914,21 @@ const LONGINUS_DATA = {
       body: "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-14-the-shock-of-seeing-your-body-used-in-de",
+      title: "The shock of seeing your body used in deepfake porn",
+      date: "2026-05-14",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","mit-technology-review"],
+      body: "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/" }
       ],
       xAccounts: [],
     },
