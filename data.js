@@ -1933,6 +1933,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-14-how-ai-hallucinations-are-creating-real",
+      title: "How AI Hallucinations Are Creating Real Security Risks",
+      date: "2026-05-14",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","the-hacker-news"],
+      body: "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-14-the-download-deepfake-porn-s-stolen-bodi",
+      title: "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      date: "2026-05-14",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognitio...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
