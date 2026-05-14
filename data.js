@@ -1962,6 +1962,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-14-clawdmeter-turns-your-claude-code-usage",
+      title: "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      date: "2026-05-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-14-control-where-your-ai-agents-can-browse",
+      title: "Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore",
+      date: "2026-05-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, you will configure Chrome enterprise policies to restrict a browser agent to a specific website, observe the policy enforcement through session recording, and demonstrate custom root CA certificates using a public test site. The walkthrough produces a working solution that researche...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
