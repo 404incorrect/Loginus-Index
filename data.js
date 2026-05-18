@@ -2034,6 +2034,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-18-sandboxaq-brings-its-drug-discovery-mode",
+      title: "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      date: "2026-05-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-discovery","techcrunch"],
+      body: "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
