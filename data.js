@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-14",
+    lastUpdated: "2026-05-18",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1987,6 +1987,49 @@ const LONGINUS_DATA = {
       body: "In this post, you will configure Chrome enterprise policies to restrict a browser agent to a specific website, observe the policy enforcement through session recording, and demonstrate custom root CA certificates using a public test site. The walkthrough produces a working solution that researche...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-18-5-steps-to-managing-shadow-ai-tools-with",
+      title: "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      date: "2026-05-18",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","bleepingcomputer"],
+      body: "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-18-what-to-expect-from-google-this-week",
+      title: "What to expect from Google this week",
+      date: "2026-05-18",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","mit-technology-review"],
+      body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, a...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-18-prompting-amazon-nova-2-for-content-mode",
+      title: "Prompting Amazon Nova 2 for content moderation",
+      date: "2026-05-18",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "In this post, you learn how to prompt Amazon Nova 2 Lite for content moderation using structured and free-form approaches, grounded in the MLCommons AILuminate Assessment Standard. The prompting techniques use the AILuminate taxonomy as an example, but they work equally well with your own custom ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/" }
       ],
       xAccounts: [],
     },
