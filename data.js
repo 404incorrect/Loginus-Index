@@ -2064,6 +2064,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-19-google-s-ai-studio-now-lets-anyone-build",
+      title: "Google’s AI Studio now lets anyone build Android apps in minutes",
+      date: "2026-05-19",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
