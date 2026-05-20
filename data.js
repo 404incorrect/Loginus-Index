@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-19",
+    lastUpdated: "2026-05-20",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2090,6 +2090,21 @@ const LONGINUS_DATA = {
       body: "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-20-stability-ai-releases-a-new-audio-model",
+      title: "Stability AI releases a new audio model that can create six-minute songs",
+      date: "2026-05-20",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/" }
       ],
       xAccounts: [],
     },
