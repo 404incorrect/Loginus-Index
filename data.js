@@ -2212,6 +2212,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-21-intelligent-radiology-workflow-optimizat",
+      title: "Intelligent radiology workflow optimization with AI agents",
+      date: "2026-05-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases whil...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
