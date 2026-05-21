@@ -2154,6 +2154,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-21-the-path-founded-by-tony-robbins-and-cal",
+      title: "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      date: "2026-05-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-benchmark","techcrunch"],
+      body: "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-21-google-is-pitching-an-ai-agent-ecosystem",
+      title: "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      date: "2026-05-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The AI agents are coming. A lot of them.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
