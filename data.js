@@ -2183,6 +2183,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-21-build-ai-agents-for-business-intelligenc",
+      title: "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
+      date: "2026-05-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, we show you how OPLOG developed three AI agents using the Strands Agents SDK, deployed them to Amazon Bedrock AgentCore, and integrated Amazon Bedrock with Anthropic’s Claude Sonnet and Amazon Bedrock Knowledge Bases for Retrieval Augmented Generation (RAG).",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-for-business-intelligence-with-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-21-build-ai-powered-dashboard-automation-ag",
+      title: "Build AI-powered dashboard automation agents with NLP on Amazon Bedrock AgentCore",
+      date: "2026-05-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "This solution combines the power of Amazon Bedrock AgentCore, Strands Agents, and Amazon Quick transforms to deliver a secure, scalable, and intelligent system for building and operating AI agents while transforming data into actionable business insights.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-dashboard-automation-agents-with-nlp-on-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
