@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-21",
+    lastUpdated: "2026-05-25",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2223,6 +2223,21 @@ const LONGINUS_DATA = {
       body: "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases whil...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-25-harness-scaffold-and-the-ai-agent-terms",
+      title: "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      date: "2026-05-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","hugging-face"],
+      body: "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/agent-glossary" }
       ],
       xAccounts: [],
     },
