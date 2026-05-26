@@ -2300,6 +2300,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-26-duckduckgo-installs-are-up-30-as-users-r",
+      title: "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      date: "2026-05-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-26-millions-of-ai-agents-imperiled-by-criti",
+      title: "Millions of AI agents imperiled by critical vulnerability in open source package",
+      date: "2026-05-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
