@@ -2535,6 +2535,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-29-after-nvidia-s-20b-not-acqui-hire-ai-chi",
+      title: "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      date: "2026-05-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-29-does-your-ceo-have-ai-psychosis-aaron-le",
+      title: "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      date: "2026-05-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 20...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
