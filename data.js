@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-28",
+    lastUpdated: "2026-05-29",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2487,6 +2487,21 @@ const LONGINUS_DATA = {
       body: "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The challenge: adapting foundation models (FMs) to a morphologically rich language with lim...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-29-cognition-s-scott-wu-says-ai-coding-agen",
+      title: "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      date: "2026-05-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/" }
       ],
       xAccounts: [],
     },
