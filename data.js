@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-29",
+    lastUpdated: "2026-06-01",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2560,6 +2560,21 @@ const LONGINUS_DATA = {
       body: "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 20...",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-01-nvidia-levels-up-local-ai-agents-across",
+      title: "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+      date: "2026-06-01",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences and workflows, these agents can interact with applications, generate content, automate repetitive p...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/" }
       ],
       xAccounts: [],
     },
