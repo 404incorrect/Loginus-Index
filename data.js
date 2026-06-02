@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-01",
+    lastUpdated: "2026-06-02",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2619,6 +2619,21 @@ const LONGINUS_DATA = {
       body: "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-02-why-financial-institutions-are-convergin",
+      title: "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+      date: "2026-06-02",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","nvidia"],
+      body: "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understan...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/" }
       ],
       xAccounts: [],
     },
