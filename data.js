@@ -2754,6 +2754,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-03-meta-s-ai-agent-for-whatsapp-business-is",
+      title: "Meta’s AI agent for WhatsApp Business is now available globally",
+      date: "2026-06-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "WhatsApp will charge businesses for using its AI agent based on token usage",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-03-nvidia-enables-the-next-era-of-physical",
+      title: "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+      date: "2026-06-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
