@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-04",
+    lastUpdated: "2026-06-05",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2839,6 +2839,21 @@ const LONGINUS_DATA = {
       body: "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-05-the-download-ai-hacking-beyond-mythos-an",
+      title: "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      date: "2026-06-05",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instag...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/" }
       ],
       xAccounts: [],
     },
