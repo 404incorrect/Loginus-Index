@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-05",
+    lastUpdated: "2026-06-06",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2854,6 +2854,21 @@ const LONGINUS_DATA = {
       body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instag...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-06-ai-agent-uncovers-21-zero-days-in-ffmpeg",
+      title: "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      date: "2026-06-06",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html" }
       ],
       xAccounts: [],
     },
