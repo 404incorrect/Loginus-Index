@@ -2873,6 +2873,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-06-sriram-krishnan-is-leaving-his-role-as-w",
+      title: "Sriram Krishnan is leaving his role as White House AI advisor",
+      date: "2026-06-06",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-policy","techcrunch"],
+      body: "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
