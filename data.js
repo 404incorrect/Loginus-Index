@@ -2933,6 +2933,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-09-openclaw-ai-agent-found-falling-for-phis",
+      title: "OpenClaw AI agent found falling for phishing attacks, spills user data",
+      date: "2026-06-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
