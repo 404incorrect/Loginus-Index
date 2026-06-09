@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-08",
+    lastUpdated: "2026-06-09",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2914,6 +2914,21 @@ const LONGINUS_DATA = {
       body: "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
       sources: [
         { title: "Ars Technica", url: "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-09-learning-to-lead-in-a-hybrid-human-ai-en",
+      title: "Learning to lead in a hybrid human-AI enterprise",
+      date: "2026-06-09",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordina...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/" }
       ],
       xAccounts: [],
     },
