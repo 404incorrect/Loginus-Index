@@ -3021,6 +3021,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-10-xai-fired-an-engineer-who-raised-alarms",
+      title: "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      date: "2026-06-10",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
