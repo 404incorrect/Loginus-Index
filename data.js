@@ -2963,6 +2963,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-10-jedify-raises-24m-to-help-companies-arm",
+      title: "Jedify raises $24M to help companies arm AI agents with context on their business",
+      date: "2026-06-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
