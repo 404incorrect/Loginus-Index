@@ -3081,6 +3081,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-11-new-attacks-trick-openclaw-ai-agent-into",
+      title: "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      date: "2026-06-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and loca...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
