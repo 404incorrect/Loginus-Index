@@ -3051,6 +3051,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-11-threatsday-bulletin-worm-code-leaked-ai",
+      title: "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      date: "2026-06-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real cred...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
