@@ -3066,6 +3066,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-11-evaluate-ai-agents-systematically-with-a",
+      title: "Evaluate AI agents systematically with Agent-EvalKit",
+      date: "2026-06-11",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","ai-coding","aws-ml"],
+      body: "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel resea...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
