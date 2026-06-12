@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-11",
+    lastUpdated: "2026-06-12",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3092,6 +3092,21 @@ const LONGINUS_DATA = {
       body: "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and loca...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-12-langgraph-flaw-chain-exposes-self-hosted",
+      title: "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+      date: "2026-06-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent art...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html" }
       ],
       xAccounts: [],
     },
