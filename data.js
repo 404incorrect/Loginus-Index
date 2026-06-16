@@ -3228,6 +3228,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-16-hands-free-ais-forward-nvidia-xr-ai-brin",
+      title: "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      date: "2026-06-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvidia-xr-ai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
