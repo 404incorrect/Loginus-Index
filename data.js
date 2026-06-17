@@ -3258,6 +3258,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-17-collecting-robot-training-data-is-dirty",
+      title: "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it",
+      date: "2026-06-17",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
