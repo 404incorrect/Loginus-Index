@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-16",
+    lastUpdated: "2026-06-17",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3239,6 +3239,21 @@ const LONGINUS_DATA = {
       body: "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvidia-xr-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-17-malicious-jetbrains-plugins-steal-ai-api",
+      title: "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      date: "2026-06-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other l...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html" }
       ],
       xAccounts: [],
     },
