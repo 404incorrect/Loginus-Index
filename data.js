@@ -3273,6 +3273,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-17-context-intelligence-for-your-data-and-a",
+      title: "Context intelligence for your data and AI agents at scale",
+      date: "2026-06-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, databases, and streams, and in institutional knowledge that has never been written down. You want to trust the decisions made by your AI agents, but...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
