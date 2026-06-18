@@ -3303,6 +3303,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-18-orphaned-ai-agents-how-to-find-hidden-ac",
+      title: "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+      date: "2026-06-18",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","ai-agent","the-hacker-news"],
+      body: "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has left a massive trail of administrative debt: orpha...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
