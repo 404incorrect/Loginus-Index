@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-17",
+    lastUpdated: "2026-06-18",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3284,6 +3284,21 @@ const LONGINUS_DATA = {
       body: "Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, databases, and streams, and in institutional knowledge that has never been written down. You want to trust the decisions made by your AI agents, but...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-18-france-advances-europe-s-ai-future-with",
+      title: "France Advances Europe’s AI Future With NVIDIA Technologies",
+      date: "2026-06-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying a...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/" }
       ],
       xAccounts: [],
     },
