@@ -3408,6 +3408,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-22-microsoft-fixes-autogen-studio-flaw-that",
+      title: "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      date: "2026-06-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-22-spacex-inks-compute-deal-with-reflection",
+      title: "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      date: "2026-06-22",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","ai-chip","techcrunch"],
+      body: "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-22-building-pay-per-intelligence-for-ai-age",
+      title: "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+      date: "2026-06-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, you will learn how Ampersend built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. AI agents autonomously route tasks to the most effective model, pay per request, and operate within spending budgets. You will also see how the two-hop payment patter...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
