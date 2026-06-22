@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-19",
+    lastUpdated: "2026-06-22",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3389,6 +3389,21 @@ const LONGINUS_DATA = {
       body: "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a ...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-22-stop-your-legacy-infrastructure-from-hij",
+      title: "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      date: "2026-06-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Earlier this month, I spoke at the Gartner Security Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents. AI adoption is moving faster than security p...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html" }
       ],
       xAccounts: [],
     },
