@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-23",
+    lastUpdated: "2026-06-24",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3521,6 +3521,21 @@ const LONGINUS_DATA = {
       body: "In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patterns demonstrated through healthcare AI agents that serve multiple clinics and hospitals.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-23-india-s-moengage-bets-that-the-future-of",
+      title: "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      date: "2026-06-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/" }
       ],
       xAccounts: [],
     },
