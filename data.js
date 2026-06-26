@@ -3642,6 +3642,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-26-amazon-q-developer-flaw-could-let-malici",
+      title: "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      date: "2026-06-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-26-production-grade-ai-agents-for-financial",
+      title: "Production-grade AI agents for financial compliance: Lessons from Stripe",
+      date: "2026-06-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a dedicated agent service. We also discuss the role of human oversight in maintaining...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
