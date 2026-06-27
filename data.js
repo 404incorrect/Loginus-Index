@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-26",
+    lastUpdated: "2026-06-27",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3697,6 +3697,21 @@ const LONGINUS_DATA = {
       body: "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out...",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-27-clean-github-repo-tricks-ai-coding-agent",
+      title: "Clean GitHub repo tricks AI coding agents into running malware",
+      date: "2026-06-27",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","bleepingcomputer"],
+      body: "An agentic coding tool tasked with running a seemingly benign GitHub repository could execute a malicious payload that is invisible to both security agents and human reviewers. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/" }
       ],
       xAccounts: [],
     },
