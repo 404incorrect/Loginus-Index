@@ -3892,6 +3892,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-30-nvidia-competitor-etched-hits-5b-valuati",
+      title: "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      date: "2026-06-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-30-acti-puts-ai-agents-directly-into-your-s",
+      title: "Acti puts AI agents directly into your smartphone keyboard",
+      date: "2026-06-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-30-scarfbench-benchmarking-ai-agents-for-en",
+      title: "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      date: "2026-06-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","hugging-face"],
+      body: "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/ibm-research/scarfbench" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
