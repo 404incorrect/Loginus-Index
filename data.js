@@ -3833,6 +3833,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-30-into-the-omniverse-three-workflows-for-i",
+      title: "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+      date: "2026-06-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data fro...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
