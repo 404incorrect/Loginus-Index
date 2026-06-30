@@ -3935,6 +3935,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-30-microsoft-warns-poisoned-mcp-tool-descri",
+      title: "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      date: "2026-06-30",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in a defa...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
