@@ -4010,6 +4010,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-02-anthropic-is-discussing-a-new-custom-chi",
+      title: "Anthropic is discussing a new custom chip with Samsung",
+      date: "2026-07-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
