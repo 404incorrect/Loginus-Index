@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-07-03",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4021,6 +4021,21 @@ const LONGINUS_DATA = {
       body: "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-02-mark-zuckerberg-tells-staff-that-ai-agen",
+      title: "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      date: "2026-07-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/" }
       ],
       xAccounts: [],
     },
