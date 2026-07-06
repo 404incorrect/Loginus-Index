@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-04",
+    lastUpdated: "2026-07-06",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4066,6 +4066,21 @@ const LONGINUS_DATA = {
       body: "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-06-skillcloak-lets-malicious-ai-agent-skill",
+      title: "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      date: "2026-07-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ai-coding","the-hacker-news"],
+      body: "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tested mor...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html" }
       ],
       xAccounts: [],
     },
