@@ -4085,6 +4085,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-06--weekly-recap-proxy-botnets-browser-rans",
+      title: "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+      date: "2026-07-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identit...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-06-streaming-benchmark-and-recommendation-r",
+      title: "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+      date: "2026-07-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-benchmark","aws-ml"],
+      body: "In this post, you learn how to use the new MLflow integration with Amazon SageMaker AI optimized inference recommendation jobs and Amazon SageMaker AI benchmark jobs to automatically stream experiment data into a unified tracking interface. This integration streams metrics, parameters, and charts...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
