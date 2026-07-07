@@ -4114,6 +4114,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-06-the-first-ai-run-ransomware-attack-still",
+      title: "The ‘first’ AI-run ransomware attack still needed a human",
+      date: "2026-07-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last wee...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
