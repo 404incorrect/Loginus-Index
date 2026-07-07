@@ -4159,6 +4159,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-07-why-the-rise-of-open-source-ai-isn-t-hur",
+      title: "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      date: "2026-07-07",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
