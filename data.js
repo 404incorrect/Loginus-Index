@@ -4232,6 +4232,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-08-github-copilot-refuses-harmful-requests",
+      title: "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      date: "2026-07-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new study of GitHub Copilot by researchers Abhishek Kumar and Carsten Maple. The m...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-nvidia-nemotron-achieves-benchmark-leadi",
+      title: "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      date: "2026-07-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while compl...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
