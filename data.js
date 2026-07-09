@@ -4404,6 +4404,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-09-ai-attacks-move-in-minutes-join-this-web",
+      title: "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+      date: "2026-07-09",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-attack","the-hacker-news"],
+      body: "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert. That is the gap, and it is not your fault. The t...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-09-popular-open-source-ai-developer-tool-ol",
+      title: "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      date: "2026-07-09",
+      category: "tool",
+      severity: "tool",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
