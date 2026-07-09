@@ -4375,6 +4375,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-09-top-ai-agents-built-to-catch-malicious-c",
+      title: "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      date: "2026-07-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ai-coding","the-hacker-news"],
+      body: "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Claude Code...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-09-ghostapproval-symlink-flaws-could-let-ma",
+      title: "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      date: "2026-07-09",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are Amazon...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
