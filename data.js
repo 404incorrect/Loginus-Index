@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-11",
+    lastUpdated: "2026-07-13",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4531,6 +4531,63 @@ const LONGINUS_DATA = {
       body: "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into...",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-13--weekly-recap-sharefile-threat-citrix-bl",
+      title: "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+      date: "2026-07-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the p...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-13-new-memghost-attack-plants-persistent-fa",
+      title: "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+      date: "2026-07-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-13-thinking-fast-and-slow-in-the-soc-the-ca",
+      title: "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      date: "2026-07-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were seeing real value in specific investigations. But as...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-13-should-ai-help-you-get-away-with-killing",
+      title: "Should AI help you get away with killing your spouse?",
+      date: "2026-07-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-act","techcrunch"],
+      body: "What does a world of total user-aligned AI actually look like?",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/" }
       ],
       xAccounts: [],
     },
