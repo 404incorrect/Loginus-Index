@@ -4622,6 +4622,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-14-reflection-inks-1b-compute-deal-with-neb",
+      title: "Reflection inks $1B compute deal with Nebius",
+      date: "2026-07-14",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
