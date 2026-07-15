@@ -4725,6 +4725,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-15-google-gemini-cli-abused-as-a-hacking-ag",
+      title: "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      date: "2026-07-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","bleepingcomputer"],
+      body: "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
