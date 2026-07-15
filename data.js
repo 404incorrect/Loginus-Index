@@ -4667,6 +4667,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-15-sase-has-an-ai-blind-spot-inspecting-pac",
+      title: "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+      date: "2026-07-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-15-indian-ai-coding-startup-emergent-become",
+      title: "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      date: "2026-07-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-15-vint-cerf-is-working-on-a-plan-to-unleas",
+      title: "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      date: "2026-07-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
