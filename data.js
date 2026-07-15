@@ -4755,6 +4755,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-15-nvidia-introduces-new-jetson-thor-comput",
+      title: "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      date: "2026-07-15",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","nvidia"],
+      body: "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new m...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
