@@ -4800,6 +4800,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-16-yes-you-can-now-order-doordash-from-the",
+      title: "Yes, you can now order DoorDash from the command line",
+      date: "2026-07-16",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-16-why-is-openai-selling-a-chatgpt-basketba",
+      title: "Why is OpenAI selling a ChatGPT basketball?",
+      date: "2026-07-16",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
