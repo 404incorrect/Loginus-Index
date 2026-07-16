@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-15",
+    lastUpdated: "2026-07-16",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4766,6 +4766,21 @@ const LONGINUS_DATA = {
       body: "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new m...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-16-new-agent-data-injection-attack-can-make",
+      title: "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+      date: "2026-07-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html" }
       ],
       xAccounts: [],
     },
