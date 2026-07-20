@@ -4919,6 +4919,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-20-hugging-face-warns-an-autonomous-ai-agen",
+      title: "Hugging Face warns an autonomous AI agent hacked its network",
+      date: "2026-07-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
