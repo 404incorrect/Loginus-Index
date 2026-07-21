@@ -5006,6 +5006,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-21-open-source-android-ai-agents-could-let",
+      title: "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      date: "2026-07-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
