@@ -4991,6 +4991,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-21-new-encforge-ransomware-targets-ai-model",
+      title: "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      date: "2026-07-21",
+      category: "hack",
+      severity: "medium",
+      tags: ["model-weights","training-data","the-hacker-news"],
+      body: "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector index...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
