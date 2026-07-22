@@ -5094,6 +5094,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-22-arcee-a-us-open-source-ai-lab-says-chine",
+      title: "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      date: "2026-07-22",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
