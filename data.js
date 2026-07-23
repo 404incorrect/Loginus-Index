@@ -5138,6 +5138,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-23-threatsday-android-spyware-plc-attacks-a",
+      title: "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      date: "2026-07-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every we...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-23-evaluating-ai-agents-a-production-bluepr",
+      title: "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
+      date: "2026-07-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Together, Motorway and AWS built an end-to-end evaluation pipeline that reduced incorrect results from 1 in 8 queries to 1 in 50 and cut issue detection time from few hours to few minutes. The pipeline combines the Strands Agents SDK with Amazon Bedrock AgentCore, a fully managed service for depl...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-23-building-trade-assistant-how-jefferies-o",
+      title: "Building trade assistant: How Jefferies optimized front office trading operations with AI",
+      date: "2026-07-23",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","foundation-model","aws-ml"],
+      body: "In this post, we explore how Jefferies overcame these challenges with a solution built on Strands Agents, an agent harness SDK for building AI agents that can reason, plan, and act by orchestrating calls to foundation models (FMs) and external tools. The solution uses large language models (LLMs)...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-23-detecting-silent-agent-failures-with-ama",
+      title: "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
+      date: "2026-07-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Amazon Bedrock AgentCore optimization surfaces silent behavioral failures in production AI agents: the ones that pass every health check but still deliver wrong outcomes. Learn how insights discovers, explains, and ranks failure patterns across sessions so you can fix the highest-impact issues fi...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
